@@ -186,7 +186,7 @@
   flex-direction: column;
   background-size: cover;
   justify-content: flex-start;
-  background-image: src="public/harold-jonker-ctwocnh2slg-unsplash-min.jpg";
+  background-image: url('public/harold-jonker-ctwocnh2slg-unsplash-min.jpg');
 }
 .home-container02 {
   flex: 0 0 auto;
